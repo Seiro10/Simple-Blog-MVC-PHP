@@ -12,6 +12,8 @@ echo "Bonjour les noobs";
 
 echo "Salut les noob";
 
+echo "Test branche";
+
 if (isset($_GET['p'])){
 
     $p = $_GET['p'];

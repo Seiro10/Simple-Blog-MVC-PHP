@@ -9,7 +9,7 @@ define('LAYOUT_PATH' , ROOT_PATH . 'src/View/layout/');
 define('ASSETS' , ROOT_PATH. '/public/');
 
 
-
+echo "Bonjour les noobs";
 
 if (isset($_GET['p'])){
 

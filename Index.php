@@ -11,6 +11,8 @@ define('ASSETS' , ROOT_PATH. '/public/');
 
 echo "Bonjour les noobs";
 
+echo "Salut les noob";
+
 if (isset($_GET['p'])){
 
     $p = $_GET['p'];

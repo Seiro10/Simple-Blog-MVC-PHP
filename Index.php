@@ -8,11 +8,6 @@ define('ROOT_PATH', __DIR__ . '/');
 define('LAYOUT_PATH' , ROOT_PATH . 'src/View/layout/');
 define('ASSETS' , ROOT_PATH. '/public/');
 
-echo "Bonjour les noobs";
-
-echo "Salut les noob";
-
-echo "Test branche";
 
 if (isset($_GET['p'])){
 
